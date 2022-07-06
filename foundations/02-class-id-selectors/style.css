@@ -1,0 +1,19 @@
+.para{
+ background-color: pink;
+ font-family: Verdana, DejaVu Sans ,sans-serif;
+
+}
+
+#num3{
+color: blue;
+font-size: 36px;
+}
+
+.para.hil2{
+    font-size: 28px
+}
+#num4{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
