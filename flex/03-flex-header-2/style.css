@@ -46,3 +46,31 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* Solution xD*/
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.subheader1,.subheader2{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.subheader1{
+  margin-left: 10px;
+}
+.subheader2{
+  margin-right: 10px;
+}
+.links{
+  margin-left: 10px;
+}
+.ul-links{
+  display: flex;
+  gap: 25px;
+  padding: 0;
+}
+
